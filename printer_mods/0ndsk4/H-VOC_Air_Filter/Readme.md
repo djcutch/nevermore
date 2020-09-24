@@ -1,10 +1,10 @@
 README  
 
-#VORON H-VOC 3D PRINTER FUME FILTER
+# VORON H-VOC 3D PRINTER FUME FILTER
 
 ![alt text](https://github.com/0ndsk4/VoronUsers/blob/0ndsk4/printer_mods/0ndsk4/H-VOC_Air_Filter/Assembly65.png)
 
-##WHY SHOULD I CARE?
+## WHY SHOULD I CARE?
 
 3D printers emit fumes while printing. Some non-toxic, some really bad ones. While good ventilation helps, not all areas where 3d printers are placed are adequately ventilated. This allows for particle concentration buildup, and higher levels of dangerous volatile organic compounds (VOCs). 
 
