@@ -5,10 +5,13 @@ VORON H-VOC 3D PRINTER FUME FILTER
 ![alt text](https://github.com/0ndsk4/VoronUsers/blob/0ndsk4/printer_mods/0ndsk4/H-VOC_Air_Filter/Assembly65.png)
 
 WHY SHOULD I CARE?
+
 3D printers emit fumes while printing. Some non-toxic, some really bad ones. While good ventilation helps, not all areas where 3d printers are placed are adequately ventilated. This allows for particle concentration buildup, and higher levels of dangerous volatile organic compounds (VOCs). 
-Small, micron-sized particles are small enough not to be removed by your airway ciliae. Instead, they are absorbed by the body, building up over the years.
-Depending on printer filament, hazards from inhalation of these fume compounds differs, or are still unknown. Even without toxicity, a more rapid lung function loss from aging, due to tissue deposition and membrane thickening from plastic particles could possibly result with time, as the body can’t break down micro plastics. Additional dangers in your surroundings such as smoking, asbestos or city air pollution poses synergistic risks – arguing that you already are in danger since you smoke so you don’t have to care about lesser evils such as printer fumes are plain wrong! For example, fact is it’s pretty hard to get cancer from asbestos alone if you don’t smoke – you usually need to be exposed to both as they aggravate the individual risks tenfold.
-What’s worse, certain filament fumes contain known harmful gaseous substances, such as hormonally disruptive Bisphenols in polycarbonate (PC) or known cancerogenic or cardiovascular disease-promoting compounds such as butadiene and styrene in ABS. Kids stuff are labeled BPA free, as we don’t want them to be sterile or get prostate/breast cancer when theyre old. Then we shouldn’t release is as a gas in their home either. Not without a Voron H-VOC installed, that is.
+
+Besides VOCs, micron-sized particles small enough not to be removed by airway ciliae are also released. Absorbed by the body, building up over the years, a more rapid lung function loss from aging from tissue deposition could possibly result with time, even if the particles themselves should prove non-toxic (which we do no know). The body simply can’t break down micro plastics. 
+Additional dangers in your surroundings such as smoking, asbestos or city air pollution poses synergistic risks – arguing that you already are in danger since you smoke so you don’t have to care about lesser evils such as printer fumes are most likely wrong! For example, fact is it’s pretty hard to get cancer from asbestos alone if you don’t smoke – you usually need to be exposed to both as they aggravate the individual risks tenfold.
+
+What’s worse, certain filament fumes contain known harmful substances, such as hormonally disruptive Bisphenols in polycarbonate (PC) or known cancerogenic or cardiovascular disease-promoting compounds such as butadiene and styrene in ABS. Kids stuff are labeled BPA free, as we don’t want them to be sterile or get prostate/breast cancer when they're older. Then we_ probably_ shouldn’t release is as a gas in their home either. Not without a Voron H-VOC installed, that is.
 How many weeks, months or years do you want to keep inhaling your 3D printer fumes?
 
 I’VE WORKED WITH PLASTICS ALL MY LIFE, THE DANGERS ARE WAY OVERRATED!
