@@ -21,9 +21,12 @@ After all, you’re perfectly allowed to smoke two packs a day or become a oppos
 
 ##### But speaking of what we do know, we can say for sure that:
 •	The WHO:s International Agency for Research of Cancer (IARC) classifies chemical compounds based on the known evidence of human carcinogenics, into four classes (carcinogenic, probably carcinogenic, possibly carcinogenic or not classifiable as carcinogenic to humans). Most chemicals fall into the last category, but in the known carcinogenic groups we find several known 3d printer byproducts:
-#### o	Benzene. One of the main fumes from ABS printing. 3ppm regarded as safe, whereas up to 280 ppm of VOCs are produced ABS printing every hour in a small space. Proven to cause different leukemias, and suspected of causing a multitude of other cancers. Female workers in a shoe factory exposed to 40ppm for a long time had a hundredfold higher risk of dying from breast cancer, for instance. Class 1 carcinogenic.
-#### o	Styrene – main pollutant in ABS fumes, recently upgraded from possible to probable carcinogenic based on mounting evidence of connection with a close to tripled risk of different leukemias.
-#### o	Butadiene – another component of ABS printing, and the reason why styrene didn’t get the carcinogenic label for so long (as both are ABS byproducts it was long impossible to know if a cancer type was due to butadiene or styrene. Butadiene is also a known cause and/or cofactor in cardiovascular disease, so you might get your heart attack or stroke a few years earlier by breathing it in for a long time.
+#### o	Benzene. 
+One of the main fumes from ABS printing. 3ppm regarded as safe, whereas up to 280 ppm of VOCs are produced ABS printing every hour in a small space. Proven to cause different leukemias, and suspected of causing a multitude of other cancers. Female workers in a shoe factory exposed to 40ppm for a long time had a hundredfold higher risk of dying from breast cancer, for instance. Class 1 carcinogenic.
+#### o	Styrene 
+Main pollutant in ABS fumes, recently upgraded from possible to probable carcinogenic based on mounting evidence of connection with a close to tripled risk of different leukemias.
+#### o	Butadiene – 
+Another component of ABS printing, and the reason why styrene didn’t get the carcinogenic label for so long (as both are ABS byproducts it was long impossible to know if a cancer type was due to butadiene or styrene. Butadiene is also a known cause and/or cofactor in cardiovascular disease, so you might get your heart attack or stroke a few years earlier by breathing it in for a long time.
 ### Other knowns:
 •	What creates the most particles/VOCs from plastics handling is heated extrusion. 
 •	Injection molding, vacuum forming and other common industrial methods creates less air pollutants due to less melted plastic surface per kg with direct air/oxygen access/airflow. 
