@@ -1,6 +1,6 @@
 README  
 
-# VORON H-VOC 3D PRINTER FUME FILTER
+# <div align="center">VORON H-VOC 3D PRINTER FUME FILTER</div>
 
 ![alt text](https://github.com/0ndsk4/VoronUsers/blob/0ndsk4/printer_mods/0ndsk4/H-VOC_Air_Filter/Assembly65.png)
 
