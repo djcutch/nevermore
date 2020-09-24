@@ -1,22 +1,24 @@
 README  
 
-VORON H-VOC 3D PRINTER FUME FILTER
+#VORON H-VOC 3D PRINTER FUME FILTER
 
 ![alt text](https://github.com/0ndsk4/VoronUsers/blob/0ndsk4/printer_mods/0ndsk4/H-VOC_Air_Filter/Assembly65.png)
 
-WHY SHOULD I CARE?
+##WHY SHOULD I CARE?
 
 3D printers emit fumes while printing. Some non-toxic, some really bad ones. While good ventilation helps, not all areas where 3d printers are placed are adequately ventilated. This allows for particle concentration buildup, and higher levels of dangerous volatile organic compounds (VOCs). 
 
 Besides VOCs, micron-sized particles small enough not to be removed by airway ciliae are also released. Absorbed by the body, building up over the years, a more rapid lung function loss from aging from tissue deposition could possibly result with time, even if the particles themselves should prove non-toxic (which we do no know). The body simply can’t break down micro plastics. 
-Additional dangers in your surroundings such as smoking, asbestos or city air pollution poses synergistic risks – arguing that you already are in danger since you smoke so you don’t have to care about lesser evils such as printer fumes are most likely wrong! For example, fact is it’s pretty hard to get cancer from asbestos alone if you don’t smoke – you usually need to be exposed to both as they aggravate the individual risks tenfold.
+Additional dangers in your surroundings such as smoking, asbestos or city air pollution poses synergistic risks – arguing that you already are in danger since you smoke so you don’t have to care about lesser evils such as printer fumes is most likely wrong! For example, fact is it’s pretty hard to get cancer from asbestos alone if you don’t smoke – you usually need to be exposed to both as they aggravate the individual risks tenfold.
 
 What’s worse, certain filament fumes contain known harmful substances, such as hormonally disruptive Bisphenols in polycarbonate (PC) or known cancerogenic or cardiovascular disease-promoting compounds such as butadiene and styrene in ABS. Kids stuff are labeled BPA free, as we don’t want them to be sterile or get prostate/breast cancer when they're older. Then we_ probably_ shouldn’t release is as a gas in their home either. Not without a Voron H-VOC installed, that is.
 How many weeks, months or years do you want to keep inhaling your 3D printer fumes?
 
 I’VE WORKED WITH PLASTICS ALL MY LIFE, THE DANGERS ARE WAY OVERRATED!
+
 If you live alone - not impacting other people – and feel that way, this filter is not for you! 
 After all, you’re perfectly allowed to smoke two packs a day or become a opposition politician in Russia too, even though it’s probably not optimal for your health. And on an individual level one can never be sure what the health effects will be, if any - the oldest person ever used to smoke until she was 118 years or so…
+
 But speaking of what we do know, we can say for sure that:
 •	The WHO:s International Agency for Research of Cancer (IARC) classifies chemical compounds based on the known evidence of human carcinogenics, into four classes (carcinogenic, probably carcinogenic, possibly carcinogenic or not classifiable as carcinogenic to humans). Most chemicals fall into the last category, but in the known carcinogenic groups we find several known 3d printer byproducts:
 o	Benzene. One of the main fumes from ABS printing. 3ppm regarded as safe, whereas up to 280 ppm of VOCs are produced ABS printing every hour in a small space. Proven to cause different leukemias, and suspected of causing a multitude of other cancers. Female workers in a shoe factory exposed to 40ppm for a long time had a hundredfold higher risk of dying from breast cancer, for instance. Class 1 carcinogenic.
