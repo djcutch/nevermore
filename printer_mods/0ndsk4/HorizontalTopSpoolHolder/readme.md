@@ -1,1 +1,1 @@
-Work in progress. Needs filament guide.
+Work in progress. Needs filament guide - if you use this version, be sure to tighten the bolt enough that it doesnt spin without resistance (or the filament will get loose enough to fall beneath the holder and jam).
