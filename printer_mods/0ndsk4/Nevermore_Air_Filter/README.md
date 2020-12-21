@@ -28,13 +28,18 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="200" height="200">
+    <img src="images/logo.png" alt="Logo" width="600" height="600">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Nevermore Air Filter</h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    But the Raven, sitting lonely on the placid bust, spoke only
+That one word, as if his soul in that one word he did outpour.
+    Nothing farther then he uttered—not a feather then he fluttered—
+    Till I scarcely more than muttered “Other friends have flown before—
+On the morrow he will leave me, as my Hopes have flown before.”
+            Then the bird said “Nevermore.”!
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
