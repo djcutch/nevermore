@@ -39,7 +39,7 @@ That one word, as if his soul in that one word he did outpour.<br>
     Nothing farther then he uttered—not a feather then he fluttered—<BR>
     Till I scarcely more than muttered “Other friends have flown before—<br>
 On the morrow he will leave me, as my Hopes have flown before.”<BR>
-            Then the bird said “Nevermore.”!<br>
+            Then the bird said “Nevermore.”!<br><BR>
 			<B>"The Raven"</b>, Edgar Allan Poe
     <br />
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the Nevermore »</strong></a>
@@ -62,7 +62,8 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
     <li>
       <a href="#about-the-project">About The Nevermore</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Why">Why Nevermore?</a></li>
+		<li><a href="#NoButts">But there is a filtered exhaust already!</a></li>
       </ul>
     </li>
     <li>
@@ -86,10 +87,9 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-What the raven is the Nevermore? Its another recirculation carbon filter design aimed at cleaning the VOCs produced by the printer again and again and again, instead of using a one-pass exhaust of ever decreasing efficiency. The name comes from "Nevermore", the only, and repeatedly spoken, word by the Raven/Voron in the famous Edgar Allan Poe poem. 
-I'd like to think the whole poem is about the importance of great air cleaning capacity.
+What the raven is the Nevermore? Its another recirculation carbon filter design aimed at cleaning the VOCs produced by the printer REPEATEDLY, instead of using a one-pass exhaust of ever decreasing efficiency. Being the fourth filter design in my filter ventures, I feel this is the best blend of looks, simplicity and pure filtration power yet - all while managing a balanced noise level.
 
-<B>Why:</b>
+<B>Why:</b><BR>
 At the end of the day, a fresh single-pass filtered exhaust (at brand new) has perhaps 70% VOC removal efficiency while still exhausting 30% of the nasty. A recirculation filter achieving four passes at worn-in 50% efficiency would still remove 94% of the bas stuff. Or 99% at six passes! The number of passes you get all depends on how well you can seal your build chamber.
 Some will have a hard time achieving a good chamber seal, which creates the biggest drawback of recirculation filters - they're air flow neutral. Meaning, as nothing pulls air into the chamber, air can diffuse freely to the outside through any remaining gaps. And that air could be zero per cent cleaned... 
 
@@ -98,7 +98,7 @@ Of course, no one template will serve all projects since your needs may be diffe
 
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
-### Built With
+### Why
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
