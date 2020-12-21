@@ -39,16 +39,17 @@ That one word, as if his soul in that one word he did outpour.<br>
     Nothing farther then he uttered—not a feather then he fluttered—<BR>
     Till I scarcely more than muttered “Other friends have flown before—<br>
 On the morrow he will leave me, as my Hopes have flown before.”<BR>
-            Then the bird said “Nevermore.”!
+            Then the bird said “Nevermore.”!<br>
+			<B>"The Raven"</b>, Edgar Allan Poe
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the Nevermore »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter">Nevermore Air Filter</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/issues">Report Bug</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/issues">Request Feature</a>
   </p>
 </p>
 
@@ -59,7 +60,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Nevermore</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -75,24 +76,23 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Nevermore
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+What the raven is the Nevermore? Its another recirculation carbon filter design aimed at cleaning the VOCs produced by the printer again and again and again, instead of using a one-pass exhaust of ever decreasing efficiency. The name comes from "Nevermore", the only, and repeatedly spoken, word by the Raven/Voron in the famous Edgar Allan Poe poem. 
+I'd like to think the whole poem is about the importance of great air cleaning capacity.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+<B>Why:</b>
+At the end of the day, a fresh single-pass filtered exhaust (at brand new) has perhaps 70% VOC removal efficiency while still exhausting 30% of the nasty. A recirculation filter achieving four passes at worn-in 50% efficiency would still remove 94% of the bas stuff. Or 99% at six passes! The number of passes you get all depends on how well you can seal your build chamber.
+Some will have a hard time achieving a good chamber seal, which creates the biggest drawback of recirculation filters - they're air flow neutral. Meaning, as nothing pulls air into the chamber, air can diffuse freely to the outside through any remaining gaps. And that air could be zero per cent cleaned... 
+
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
 
