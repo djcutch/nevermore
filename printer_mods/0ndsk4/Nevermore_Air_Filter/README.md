@@ -63,7 +63,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
       <a href="#About-The-Nevermore">About The Nevermore</a>
       <ul>
         <li><a href="#Why">Why Nevermore?</a></li>
-		<li><a href="#NoButts">But there is a filtered exhaust already!</a></li>
+		<li><a href="#We-have-filtered-exhaust">We have filtered exhaust?</a></li>
       </ul>
     </li>
     <li>
@@ -90,8 +90,6 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 What the raven is the Nevermore? Its another recirculation carbon filter design aimed at cleaning the VOCs produced by the printer REPEATEDLY, instead of using a one-pass exhaust of ever decreasing efficiency. Being the fourth filter design in my filter ventures, I feel this is the best blend of looks, simplicity and pure filtration power yet - all while managing a balanced noise level.
 
 <B>Why:</b><BR>
-At the end of the day, a fresh single-pass filtered exhaust (at brand new) has perhaps 70% VOC removal efficiency while still exhausting 30% of the nasty. A recirculation filter achieving four passes at worn-in 50% efficiency would still remove 94% of the bas stuff. Or 99% at six passes! The number of passes you get all depends on how well you can seal your build chamber.
-Some will have a hard time achieving a good chamber seal, which creates the biggest drawback of recirculation filters - they're air flow neutral. Meaning, as nothing pulls air into the chamber, air can diffuse freely to the outside through any remaining gaps. And that air could be zero per cent cleaned... 
 
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
@@ -99,6 +97,14 @@ Of course, no one template will serve all projects since your needs may be diffe
 A list of commonly used resources that I find helpful are listed in the acknowledgements.
 
 ### Why
+
+At the end of the day, a fresh single-pass filtered exhaust (at brand new) has perhaps 70% VOC removal efficiency while still exhausting 30% of the nasty. A recirculation filter achieving four passes at worn-in 50% efficiency would still remove 94% of the bas stuff. Or 99% at six passes! The number of passes you get all depends on how well you can seal your build chamber.
+Some will have a hard time achieving a good chamber seal, which creates the biggest drawback of recirculation filters - they're air flow neutral. Meaning, as nothing pulls air into the chamber, air can diffuse freely to the outside through any remaining gaps. And that air could be zero per cent cleaned... 
+
+### We have filtered exhaust?
+
+Yup, but aside from being one-pass, regular mesh carbon filters mainly consists of...mesh. And active carbon sprinkle - miniscule amounts. They're not meant to be used 24/7 in a 3d printer, as continuous air flow depletes carbon binding capacity. Its not that the carbon select just to bind toxic stuff, just running regular household air through a mesh filter will still depete it in weeks. Keeping a carbon filter exposed to air depletes the filter too. Friggin everything depletes carbon filters. But if you change the filters every week and are okay with limited filtering capacity, the standard stuff is good too!
+The Nevermore has more than a kilo, or two pounds, of active carbon. Not single-digit grams. And its sealed off from the surroundings; when its not running, its not depleting. And when is does run, it has alot of VOC binding capacity! About five hundred times more. This is the filter for the low maintenence crowd, who still want to be safe.
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [Bootstrap](https://getbootstrap.com)
