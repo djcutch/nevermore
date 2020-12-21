@@ -99,8 +99,15 @@ Some will have a hard time achieving a good chamber seal, which creates the bigg
 
 ### But we already have a filtered exhaust?
 
-Yup, but aside from being one-pass, regular mesh carbon filters mainly consists of...mesh. And active carbon sprinkle - miniscule amounts. They're not meant to be used 24/7 in a 3d printer, as continuous air flow depletes carbon binding capacity. Its not that the carbon select just to bind toxic stuff, just running regular household air through a mesh filter will still depete it in weeks. Keeping a carbon filter exposed to air depletes the filter too. Friggin everything depletes carbon filters. But if you change the filters every week and are okay with limited filtering capacity, the standard stuff is good too!
-The Nevermore has more than a kilo, or two pounds, of active carbon. Not single-digit grams. And its sealed off from the surroundings; when its not running, its not depleting. And when is does run, it has alot of VOC binding capacity! About five hundred times more. This is the filter for the low maintenence crowd, who still want to be safe.
+Yup, but aside from being one-pass, regular mesh carbon filters mainly consists of...mesh. And active carbon sprinkle - miniscule amounts, not meant to be used 24/7 in a 3d printer. <BR><BR>
+
+Just running regular  air through a mesh filter will still depete it in weeks (carbon can't opt to just bind the nasty stuff). Just having a carbon filter exposed to air deplete the filter too. Friggin' everything depletes carbon filters.<BR> 
+But if you change the filters every week and are okay with limited filtering capacity, the standard stuff is good too!<BR><BR>
+
+
+<b>The Nevermore</B> has more than a <i>kilo</i>, or two pounds, of active carbon. Not single-digit grams. And its sealed off from the surroundings, so when its not running, its not depleting. And when is does run, it has alot of VOC binding capacity! About five hundred times more. <BR><BR>
+
+This is the filter for the low maintenence crowd (who still want to be safe).
 
 ### I've worked with plastics, and I'm fine!
 
