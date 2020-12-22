@@ -71,7 +71,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#BOM">BOM</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
@@ -116,29 +116,31 @@ This is the filter for the low maintenence crowd (who still want to be safe). /n
 
 ### I have worked with plastics and I am fine!
 
-If you live alone - not impacting other people – and feel that way, this filter is not for you! After all, you’re perfectly allowed to smoke two packs a day or become a opposition politician in Russia too, even though it’s probably not optimal for your health. And on an individual level one can never be sure what the health effects will be, if any - the oldest person ever used to smoke until she was 118 years or so…
+If you live alone - not impacting other people – and feel that way, this filter is not for you! <br>
+After all, you’re perfectly allowed to smoke two packs a day or become a opposition politician in Russia too, even though it’s probably not optimal for your health. And on an individual level one can never be sure what the health effects will be, if any - the oldest person ever used to smoke until she was 118 years or so…
 
 But speaking of what we do know, we can say for sure that:<BR>
 
-• The WHO:s <I>International Agency for Research of Cancer (IARC)</i> classifies chemical compounds based on the known evidence of human carcinogenics, into four classes (carcinogenic, probably carcinogenic, possibly carcinogenic or not classifiable as carcinogenic to humans). Most chemicals fall into the last category, but in the known carcinogenic groups we find several known 3d printer byproducts:<br>
+The WHO:s <I>International Agency for Research of Cancer (IARC)</i> classifies chemical compounds based on the known evidence of human carcinogenics, into four classes (<I>carcinogenic, probably carcinogenic, possibly carcinogenic or not classifiable as carcinogenic to humans</i>).<BR><BR>
+Most chemicals fall into the last category, but in the known carcinogenic groups we find several known 3d printer byproducts:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>o Benzene</b><BR>
-One of the main fumes from ABS printing. 3ppm regarded as safe, whereas up to 280 ppm of VOCs are produced ABS printing every hour in a small space. Proven to cause different leukemias, and suspected of causing a multitude of other cancers. Female workers in a shoe factory exposed to 40ppm for a long time had a hundredfold higher risk of dying from breast cancer, for instance. Class 1 carcinogenic.<br>
+One of the main fumes from ABS printing. 3ppm regarded as safe, whereas up to 280 ppm of VOCs are produced ABS printing every hour in a small space. Proven to cause different leukemias, and suspected of causing a multitude of other cancers. Female workers in a shoe factory exposed to 40ppm for a long time had a hundredfold higher risk of dying from breast cancer, for instance. Class 1 carcinogenic.<br><BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>o Styrene</B><BR>
-Main pollutant in ABS fumes, recently upgraded from possible to probable carcinogenic based on mounting evidence of connection with a close to tripled risk of different leukemias.<br>
+Main pollutant in ABS fumes, recently upgraded from possible to probable carcinogenic based on mounting evidence of connection with a close to tripled risk of different leukemias.<br><BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>o Butadiene</b><BR>
 Another component of ABS printing, and the reason why styrene didn’t get the carcinogenic label for so long (as both are ABS byproducts it was long impossible to know if a cancer type was due to butadiene or styrene. Butadiene is also a known cause and/or cofactor in cardiovascular disease, so you might get your heart attack or stroke a few years earlier by breathing it in for a long time.<br><br>
 <u>Other knowns:</U><br><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• What creates the most particles/VOCs from plastics handling is heated extrusion.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• What creates the most particles/VOCs from plastics handling is <i>heated extrusion</i>.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Injection molding, vacuum forming and other common industrial methods creates less air pollutants due to less melted plastic surface per kg with direct air/oxygen access/airflow.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• 3D printing extrusion takes this to another VOC creation level, as you’re extruding thin layer by thin layer, not trapping any of the extruded melted material from access to oxygen or airflow. Thus, per kilogram of product, it’s the most particle and VOC generating plastic process there is.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Home 3d printers are often used in places without industrial ventilation or industrial wet scrubbing. Indeed, a recent study showed that levels of VOC carcinogenics in plastics recycling plants using heated extrusion processes were mostly within safe limits. However, in surrounding residential homes of those safe-to-work plants, VOC levels were up to 42 times the safe limits and consisted of the ventilated byproducts from the plastic plants, due to lower ventilation requirements in homes. The study showed a clear increased lifetime cancer risk, even for the workers of the plants.<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Home 3d printers are often used in places without industrial ventilation or industrial wet scrubbing. Indeed, a recent study showed that levels of VOC carcinogenics in plastics recycling plants using heated extrusion processes were mostly within safe limits. However, in surrounding residential homes of those safe-to-work plants, VOC levels were up to <B>42 times</b> the safe limits and consisted of the ventilated byproducts from the plastic plants, due to lower ventilation requirements in homes. The study showed a clear increased lifetime cancer risk, even for the workers in the plants.<br><br>
 
 This is a short list of some key knowns, and only address the most common ABS fumes. Other materials have different VOCs. PETG for instance, releases Toluene, Acetaldehyde, Formaldehyde – all of which are known health hazards. Regular PLA and Nylons without additives are usually safer, but still release lower levels of acetone, methyl-methacrylate, and iso-butanol (PLA) and Propylene Glycol and Cyclopentanone (Nylon). Not all fumes are created equal.<br><br>
 I want one!<br><br>
 There ya go, check out the BOM!
 
 ### Built with
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+The Voron nevermore Air Filter was modelled in Fusion 360.
 * [Fusion 360](http://autodesk.com)
 
 
@@ -146,32 +148,34 @@ This section should list any major frameworks that you built your project using.
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+You're ready to build a Nevermore? Cool!
 
-### Prerequisites
+### BOM
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+<B>PANELS</b> <br>
+(any plastic, PC might be best choice for the exterior sheet for the surface to hold up better. PET(G) for everything is most economical and avoids crack-prone acrylic):<br>
+* OUTER (4-8mm): 346x300mm<br>
+	Thick: Better noise dampening.<br>
+	Thin: Lighter. <br><br>
+* 2 SIDES  (6MM): 288 X 70 mm <br>
+* MIDDLE (6MM, OR 4+2MM DAMPENING): 288 X 278 mm<br>
+* BACK (4MM, OR 2+2MM DAMPENING, or even totally optional as its just there to be a noise barrier combined with the enclosure panel): 288 X 278 mm<br><br>
 
+<B>FANS</b><br>
+* CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so). Its mounted with  rubber grommets (case fan grommets) to decouple vibrations from the panels, so get those as well.<br>
+* RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
+* EXHAUST FAN: A single 4010 blower.<br><br>
+<B>FILTERS</b><br>
+* ACTIVE CARBON: 3-4MM pellets (ebay/amazon, available on bulk. Slightly more than 1 KG/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
+* Prefilter: Any vacum prefilter, preferably a larger piece you can cut to size yourself.<br>
+* HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br><br>
+
+<B>PRINTED PARTS:</b><br>
+* 300mm voron required for now (it'll fit a 250 but take up most of the panel its mounted on). In the future I'll make a two-pieced mod.<br>
+* Print solid. The top/Bottom plates are 6mm thick, same as panels. Hollow/infilled panels doesnt dampen as well.<br><br>
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+...TBC...
 
 
 
