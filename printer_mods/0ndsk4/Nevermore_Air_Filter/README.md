@@ -75,8 +75,6 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 		<li><a href="#Built-with">Built with</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
   </ol>
@@ -161,7 +159,7 @@ You're ready to build a Nevermore? Cool!
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
 <B>FILTERS</b><br>
-* Active carbon: 3-4MM pellets (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
+* Active carbon: 3-4mm pellets (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
 * Prefilter: Any vacum prefilter, preferably a larger piece you can cut to size yourself.<br>
 * HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br><br>
 
@@ -177,19 +175,6 @@ The Voron nevermore Air Filter was modelled in Fusion 360.
 * [Fusion 360](http://autodesk.com)
 
 <!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
 
 
 <!-- CONTRIBUTING -->
