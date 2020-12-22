@@ -34,8 +34,10 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
             Then the bird said “Nevermore.”!<br><BR>
 			<B>"The Raven"</b>, Edgar Allan Poe
     <br>
-	
-	<video>  <source src="images/Nevermore-Export.mp4" type="video/mp4"></video>
+		<video width="940" height="640" controls>
+  <source src="images/Nevermore-Export.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 	<BR></BR>
     <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the Nevermore »</strong></a>
     <br />
