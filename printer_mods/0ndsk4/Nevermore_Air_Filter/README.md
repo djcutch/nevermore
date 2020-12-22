@@ -65,7 +65,6 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
         <li><a href="#Why">Why Nevermore?</a></li>
 		<li><a href="#But-we-already-have-a-filtered-exhaust">But we already have a filtered exhaust?</a></li>
 		<li><a href="#I-have-worked-with-plastics-and-I-am-fine">I've worked with plastics, and I'm fine!</a></li>
-		
       </ul>
     </li>
     <li>
