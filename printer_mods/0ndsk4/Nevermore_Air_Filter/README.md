@@ -161,6 +161,9 @@ AMD VEGA 56/64 Fans are used by me: https://www.aliexpress.com/i/4001102469307.h
 * EXHAUST FAN: A single 4010 blower.<br><br>
 <B>FILTERS</b><br>
 * Active carbon: 3-4mm pellets (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
+Example (.DE): https://www.helo24.eu/haushalt-event/aktivkohle-pellets-wasserfilter-filtermaterial-kohle-filterkohle-b-spezial_178527_8023 <BR>
+Example 2 (.US) 2: https://www.airpurifiersandcleaners.com/bulk-standard-activated-carbon <BR>
+Example 3 (.AU): https://www.ebay.com.au/itm/Activated-Carbon-Deodorising-Pellets-5-kg-/154017567261<BR>
 * Prefilter: Any vacum prefilter, preferably a larger piece you can cut to size yourself.<br>
 * HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br>
 Example Seller: https://www.aliexpress.com/item/1005001615722382.html<br>
