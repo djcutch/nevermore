@@ -28,7 +28,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="600" height="600">
+    <img src="images/logo.png" alt="Logo" width="1027" height="926">
   </a>
 
   <h3 align="center">Nevermore Air Filter</h3>
@@ -155,8 +155,9 @@ You're ready to build a Nevermore? Cool!
 * BACK (4MM, OR 2+2mm dampening, or even totally optional as its just there to be a noise barrier combined with the enclosure panel): 288 X 278 mm<br><br>
 
 <B>FANS</b><br>
-* CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so). Its mounted with  rubber grommets (case fan grommets) to decouple vibrations from the panels, so get those as well.<br>
+* CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so).<br>
 AMD VEGA 56/64 Fans are used by me: https://www.aliexpress.com/i/4001102469307.html<br>
+* Rubber grommets for PC cases to decouple the center fan vibrations from the panels.<BR>
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
 <B>FILTERS</b><br>
