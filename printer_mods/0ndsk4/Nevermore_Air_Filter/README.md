@@ -156,12 +156,14 @@ You're ready to build a Nevermore? Cool!
 
 <B>FANS</b><br>
 * CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so). Its mounted with  rubber grommets (case fan grommets) to decouple vibrations from the panels, so get those as well.<br>
+AMD VEGA 56/64 Fans are used by me: https://www.aliexpress.com/i/4001102469307.html<br>
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
 <B>FILTERS</b><br>
 * Active carbon: 3-4mm pellets (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
 * Prefilter: Any vacum prefilter, preferably a larger piece you can cut to size yourself.<br>
-* HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br><br>
+* HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br>
+Example Seller: https://www.aliexpress.com/item/1005001615722382.html<br>
 
 <B>PRINTED PARTS:</b><br>
 * 300mm voron required for now (it'll fit a 250 but take up most of the panel its mounted on). In the future I'll make a two-pieced mod.<br>
