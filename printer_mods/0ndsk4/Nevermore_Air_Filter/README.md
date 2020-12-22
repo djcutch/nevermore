@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="1085" height="921">
+    <img src="logo.png" alt="Logo" width="1085" height="921">
   </a>
 
   <h3 align="center">Nevermore Air Filter</h3>
