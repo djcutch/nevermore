@@ -65,7 +65,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
         <li><a href="#Why">Why Nevermore?</a></li>
 		<li><a href="#But-we-already-have-a-filtered-exhaust">But we already have a filtered exhaust?</a></li>
 		<li><a href="#I-have-worked-with-plastics-and-I-am-fine">I've worked with plastics, and I'm fine!</a></li>
-		<li><a href="#Built-with">Built with</a></li>
+		
       </ul>
     </li>
     <li>
@@ -73,6 +73,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
       <ul>
         <li><a href="#BOM">BOM</a></li>
         <li><a href="#installation">Installation</a></li>
+		<li><a href="#Built-with">Built with</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
@@ -122,7 +123,7 @@ After all, you’re perfectly allowed to smoke two packs a day or become a oppos
 But speaking of what we do know, we can say for sure that:<BR>
 
 The WHO:s <I>International Agency for Research of Cancer (IARC)</i> classifies chemical compounds based on the known evidence of human carcinogenics, into four classes (<I>carcinogenic, probably carcinogenic, possibly carcinogenic or not classifiable as carcinogenic to humans</i>).<BR><BR>
-Most chemicals fall into the last category, but in the known carcinogenic groups we find several known 3d printer byproducts:<br>
+Most chemicals fall into the last category, but in the known carcinogenic groups we find several known 3d printer byproducts:<br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<B>o Benzene</b><BR>
 One of the main fumes from ABS printing. 3ppm regarded as safe, whereas up to 280 ppm of VOCs are produced ABS printing every hour in a small space. Proven to cause different leukemias, and suspected of causing a multitude of other cancers. Female workers in a shoe factory exposed to 40ppm for a long time had a hundredfold higher risk of dying from breast cancer, for instance. Class 1 carcinogenic.<br><BR>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>o Styrene</B><BR>
@@ -136,12 +137,7 @@ Another component of ABS printing, and the reason why styrene didn’t get the c
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• Home 3d printers are often used in places without industrial ventilation or industrial wet scrubbing. Indeed, a recent study showed that levels of VOC carcinogenics in plastics recycling plants using heated extrusion processes were mostly within safe limits. However, in surrounding residential homes of those safe-to-work plants, VOC levels were up to <B>42 times</b> the safe limits and consisted of the ventilated byproducts from the plastic plants, due to lower ventilation requirements in homes. The study showed a clear increased lifetime cancer risk, even for the workers in the plants.<br><br>
 
 This is a short list of some key knowns, and only address the most common ABS fumes. Other materials have different VOCs. PETG for instance, releases Toluene, Acetaldehyde, Formaldehyde – all of which are known health hazards. Regular PLA and Nylons without additives are usually safer, but still release lower levels of acetone, methyl-methacrylate, and iso-butanol (PLA) and Propylene Glycol and Cyclopentanone (Nylon). Not all fumes are created equal.<br><br>
-I want one!<br><br>
-There ya go, check out the BOM!
 
-### Built with
-The Voron nevermore Air Filter was modelled in Fusion 360.
-* [Fusion 360](http://autodesk.com)
 
 
 
@@ -156,17 +152,17 @@ You're ready to build a Nevermore? Cool!
 (any plastic, PC might be best choice for the exterior sheet for the surface to hold up better. PET(G) for everything is most economical and avoids crack-prone acrylic):<br>
 * OUTER (4-8mm): 346x300mm<br>
 	Thick: Better noise dampening.<br>
-	Thin: Lighter. <br><br>
+	Thin: Lighter. <br>
 * 2 SIDES  (6MM): 288 X 70 mm <br>
-* MIDDLE (6MM, OR 4+2MM DAMPENING): 288 X 278 mm<br>
-* BACK (4MM, OR 2+2MM DAMPENING, or even totally optional as its just there to be a noise barrier combined with the enclosure panel): 288 X 278 mm<br><br>
+* MIDDLE (6MM, OR 4+2mm dampening): 288 X 278 mm<br>
+* BACK (4MM, OR 2+2mm dampening, or even totally optional as its just there to be a noise barrier combined with the enclosure panel): 288 X 278 mm<br><br>
 
 <B>FANS</b><br>
 * CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so). Its mounted with  rubber grommets (case fan grommets) to decouple vibrations from the panels, so get those as well.<br>
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
 <B>FILTERS</b><br>
-* ACTIVE CARBON: 3-4MM pellets (ebay/amazon, available on bulk. Slightly more than 1 KG/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
+* Active carbon: 3-4MM pellets (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
 * Prefilter: Any vacum prefilter, preferably a larger piece you can cut to size yourself.<br>
 * HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br><br>
 
@@ -177,7 +173,9 @@ You're ready to build a Nevermore? Cool!
 
 ...TBC...
 
-
+### Built with
+The Voron nevermore Air Filter was modelled in Fusion 360.
+* [Fusion 360](http://autodesk.com)
 
 <!-- USAGE EXAMPLES -->
 ## Usage
@@ -198,45 +196,28 @@ See the [open issues](https://github.com/othneildrew/Best-README-Template/issues
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+Please contribute! I'd like to incorporate VOC sensors, making the filter smart (running on low-noise mode at an acceptable VOC level, then ramp up at the end to clean more thoroughly before doors open).
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under Creative Commons ShareAlike 3.0 (CC BY-SA 3.0)
 
 
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+0ndsk4#5933  - (http://discord.com/user/0ndsk4#5933) 
+Nevermore: [https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter](https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
-* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
-* [Img Shields](https://shields.io)
-* [Choose an Open Source License](https://choosealicense.com)
-* [GitHub Pages](https://pages.github.com)
-* [Animate.css](https://daneden.github.io/animate.css)
-* [Loaders.css](https://connoratherton.com/loaders)
-* [Slick Carousel](https://kenwheeler.github.io/slick)
-* [Smooth Scroll](https://github.com/cferdinandi/smooth-scroll)
-* [Sticky Kit](http://leafo.net/sticky-kit)
-* [JVectorMap](http://jvectormap.com)
-* [Font Awesome](https://fontawesome.com)
+* [The Voron Dev Team](https://vorondesign.com/)
+
 
 
 
