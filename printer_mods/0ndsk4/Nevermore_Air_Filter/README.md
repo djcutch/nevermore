@@ -34,7 +34,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
             Then the bird said “Nevermore.”!<br><BR>
 			<B>"The Raven"</b>, Edgar Allan Poe
     <br>
- <img src="nevermore.gif" alt="NevermoreGIF" width="638" height="631">
+ <img src="images/nevermore.gif" alt="NevermoreGIF" width="638" height="631">
 	<BR></BR>
     <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter"><strong>Explore the Nevermore »</strong></a>
     <br />
