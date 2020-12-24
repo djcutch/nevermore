@@ -150,7 +150,7 @@ You're ready to build a Nevermore? Cool!
 
 <B>FANS</b><br>
 * CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so).<br>
-AMD VEGA 56/64 Fans are used by me: https://www.aliexpress.com/i/4001102469307.html<br>
+AMD VEGA 56/64 Fans are used by me: https://www.aliexpress.com/item/4001102469307.html<br>
 * Rubber grommets for PC cases to decouple the center fan vibrations from the panels.<BR>
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
