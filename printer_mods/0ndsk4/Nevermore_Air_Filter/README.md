@@ -141,6 +141,8 @@ You're ready to build a Nevermore? Cool!
 
 <B>PANELS</b> <br>
 (any plastic, PC might be best choice for the exterior sheet for the surface to hold up better. PET(G) for everything is most economical and avoids crack-prone acrylic):<br>
+[REFERENCE PRICES FROM INTERGLAS 288X278X6mm PC = €12, 288x278X4mm PETG €5 precut to size (https://interglas.se/shop/polykarbonat-klar-6-753p.html) and (https://interglas.se/shop/pet-g-klar-4-2725p.html)]
+
 * OUTER (4-8mm): 346x300mm<br>
 	Thick: Better noise dampening.<br>
 	Thin: Lighter. <br>
