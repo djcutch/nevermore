@@ -19,8 +19,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro">
-    <img src="logo.png" alt="Logo" width="960" height="973">
+  <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro/images">
+    <img src="logo.png" alt="Logo" width="987" height="689">
   </a>
 
   <h3 align="center">Nevermore Air Filter</h3>
