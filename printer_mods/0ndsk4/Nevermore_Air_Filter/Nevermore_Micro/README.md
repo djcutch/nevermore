@@ -109,7 +109,7 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 
 *<b>Plenum</B> holds the cut up 5015 fan, and is seated with two m3 screws into the base (base has two recieving m3 4mm heat inserts) on each side<BR>
 
-*<b>Cartridge</B> HOLD THE FILTER MEDIUM (Made for 3-4mm air filter active carbon pellets, but feel free to filter with what you think works best!). It snaps onto the Plenum piece for easy and quick removal.
+*<b>Cartridge</B> holds the filter medium of your choice (made for 3-4mm air filter active carbon pellets, but feel free to filter with what you think works best!). It snaps onto the Plenum piece for easy and quick removal.
 
 <B>BOLTS/INSERTS:</b><br>
 * 8 X Heat inserts (M3,5x4mm, standard voron issue). <BR>
