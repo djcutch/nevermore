@@ -19,8 +19,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro/images">
-    <img src="logo.png" alt="Logo" width="987" height="689">
+  <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro/">
+    <img src="images/logo.png" alt="Logo" width="987" height="689">
   </a>
 
   <h3 align="center">Nevermore Air Filter</h3>
@@ -34,7 +34,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
             Then the bird said “Nevermore.”!<br><BR>
 			<B>"The Raven"</b>, Edgar Allan Poe
     <br>
- <img src="images/nevermore.gif" alt="NevermoreGIF" width="638" height="631">
+ <img src="images/Nevermore_Micro2" alt="NevermoreGIF" width="2158" height="1093">
 	<BR></BR>
     <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro"><strong>Explore the Nevermore »</strong></a>
     <br />
