@@ -31,7 +31,7 @@ That one word, as if his soul in that one word he did outpour.<br>
     Nothing farther then he uttered—not a feather then he fluttered—<BR>
     Till I scarcely more than muttered “Other friends have flown before—<br>
 On the morrow he will leave me, as my Hopes have flown before.”<BR>
-            Then the bird said “Nevermore.”!<br><BR>
+            Then the bird said “Nevermore!”<br><BR>
 			<B>"The Raven"</b>, Edgar Allan Poe
     <br>
  <img src="images/Nevermore_Micro3.png" alt="NevermoreV2">
