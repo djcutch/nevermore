@@ -85,11 +85,8 @@ What-the-raven is Nevermore Micro? Its the smallest member of the Nevermore <I>r
 
 At the end of the day, a fresh single-pass filtered exhaust (at brand new) has perhaps 70% VOC removal efficiency while still exhausting 30% of the nasty. A recirculation filter achieving four passes at worn-in 50% efficiency would still remove 94% of the bas stuff. Or 99% at six passes! <BR>
 The number of passes you get all depends on how well you can seal your build chamber.<br><BR>
-Some will have a hard time achieving a good chamber seal, which creates the biggest drawback of recirculation filters - they're air flow neutral. Meaning, as nothing pulls air into the chamber, air can diffuse freely to the outside through any remaining gaps. And that air could be <i>zero per cent</I> cleaned... <BR><BR>
+Some will have a hard time achieving a good chamber seal, which creates the biggest drawback of recirculation filters - they're air flow neutral. Meaning, as nothing pulls air into the chamber, air can diffuse freely to the outside through any remaining gaps. And that air could be <i>zero per cent</I> cleaned... If you plan on using only a Nevermore Micro - be sure to seal your chamber as good as possible.<BR><BR>
 
-To both have the cake and eat it (yes you can!), the Nevermore incorporates a small exhaust fan, that is used to keep a slight negative pressure inside the chamber - air will still just get pulled _into_ the chamber through any remaning cracks, not leak outside. Dont ramp it up high! Its meant to just barely evict air - so that the majority of air flow through the filter is still recirculated. <BR>
-The exhaust can also be used to keep the chamber at a set temperature in Mainsails. <BR><BR>
-Air evicted through the exhaust will at least have passed through the carbon filter, pre-filter and HEPA filter at least once (hopefully many more times) - so its a good security measure to have if you dont want to bet on your chamber being hermetically sealed.
 
 
 <!-- GETTING STARTED -->
