@@ -103,9 +103,9 @@ You're ready to build a Nevermore Micro? Cool!
 * ONE 5015 BLOWER FAN, CUT UP SO ONLY THE FAN AND ITS PLASTIC BACKING + "SCREW EARS" REMAINS. We aim for removing the focused air stream and instead achieve an even pressure across all of the filter medium.
 
 <B>PRINTED PARTS:</b><br>
-Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> (plus lids for the plenum/cartridge, and a latch for holding the lid in place and allowing for easy filter removal. <BR>BR>
+Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> (plus lids for the plenum/cartridge, and a latch for holding the lid in place and allowing for easy filter removal. <BR>
 
-* <b>Base</B> is mounted in the 130mm space between the bottom extrusions found on many vorons (designed for v2 originally). It’s seated with one m3 to a receiving 2020 extrusion T-nut on each side.<BR> 
+* <b>Base</B> is mounted in the 130mm space between the bottom extrusions found on many vorons (designed for v2 originally). It’s seated with one m3 on each side, that screws into to a receiving 2020 M3 T-nut.<BR> 
 
 *<b>Plenum</B> holds the cut up 5015 fan, and is seated with two m3 screws into the base (base has two recieving m3 4mm heat inserts) on each side<BR>
 
