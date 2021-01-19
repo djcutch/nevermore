@@ -77,7 +77,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 <!-- ABOUT THE PROJECT -->
 ## About The Nevermore Micro
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro/images/print_example.jpg)
 
 What-the-raven is Nevermore Micro? Its the smallest member of the Nevermore <I>recirculation carbon filter</I> family,  aimed at cleaning the VOCs produced by the printer REPEATEDLY, instead of using a one-pass exhaust of ever decreasing efficiency. Being the sixth filter design in my filter ventures, I feel this is the quickest way to add recirculation filtration easily - all while managing a balanced noise level utilizing a single 5015 fan.
 
