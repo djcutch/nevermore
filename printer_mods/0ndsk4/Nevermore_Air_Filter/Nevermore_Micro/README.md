@@ -79,6 +79,8 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 
  <img src="images/print_example2.png" alt="NevermoreV2">
 
+<B>NEVERMORE V3</B><br>
+Nevermore V3 is a refinement of the V2. Gone are all supports, gone are the latch, lip and snap-fits (which due to the corner cubes made inserting the filter harder than it should be). Added is a 1.75mm slot between cartridge and plenum for TPU filament (or any other circulat rubber seal in suitable dimensions), and magnet latching (8x 4x6mm magnets). A later revision will probably bring support for standard voron 6x3 at the expense of the seal. Choose between V2 and V3 as you please!<BR><br>
 What-the-raven is Nevermore Micro? Its the smallest member of the Nevermore <I>recirculation carbon filter</I> family,  aimed at cleaning the VOCs produced by the printer REPEATEDLY, instead of using a one-pass exhaust of ever decreasing efficiency. Being the sixth filter design in my filter ventures, I feel this is the quickest way to add recirculation filtration easily - all while managing a balanced noise level utilizing a single 5015 fan.
 
 ### Why
