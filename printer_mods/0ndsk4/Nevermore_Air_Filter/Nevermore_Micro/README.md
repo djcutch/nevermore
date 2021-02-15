@@ -158,7 +158,7 @@ Please contribute! I'd like to incorporate VOC sensors, making the filter smart 
 <!-- LICENSE -->
 ## License
 
-Distributed under Creative Commons ShareAlike 3.0 (CC BY-SA 3.0)
+Distributed under GNU General Public License version 3.0 (GPLv3)
 
 
 
