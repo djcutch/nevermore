@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter">
-    <img src="images/logo.png" alt="Logo" width="960" height="973">
+    <img src="logo.png" alt="Logo" width="960" height="973">
   </a>
 
   <h3 align="center">Nevermore Air Filter</h3>
@@ -188,7 +188,7 @@ Please contribute! I'd like to incorporate VOC sensors, making the filter smart 
 <!-- LICENSE -->
 ## License
 
-Distributed under Creative Commons ShareAlike 3.0 (CC BY-SA 3.0)
+Distributed under GNU General Public License version 3.0 (GPLv3)
 
 
 
