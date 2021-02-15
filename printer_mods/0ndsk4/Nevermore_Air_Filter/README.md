@@ -20,7 +20,7 @@
 <br />
 <p align="center">
   <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter">
-    <img src="logo.png" alt="Logo" width="960" height="973">
+    <img src="images/logo.png" alt="Logo" width="960" height="973">
   </a>
 
   <h3 align="center">Nevermore Air Filter</h3>
