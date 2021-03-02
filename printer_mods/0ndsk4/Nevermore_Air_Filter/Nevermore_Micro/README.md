@@ -79,6 +79,10 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 
  <img src="images/print_example2.png" alt="NevermoreV2">
 
+<B>NEVERMORE V4</B><br>
+Nevermore V4 is a refinement of the V3. Some supports for the plenum are back unfortunately, but they should be easy enough to remove(integrated, so no slicer supports anywhere!) V4 adds a air guides, as the previous versions had the majority of air flow on just one side of the filter. The cartridge lid also mounts a bit sturdier, and V4 now has separate base pieces for use with vorons other than 2.4.
+
+
 <B>NEVERMORE V3</B><br>
 Nevermore V3 is a refinement of the V2. Gone are all supports, gone are the latch, lip and snap-fits (which due to the corner cubes made inserting the filter harder than it should be). Added is a 1.75mm slot between cartridge and plenum for TPU filament (or any other circulat rubber seal in suitable dimensions), and magnet latching (8x 4x6mm magnets). A later revision will probably bring support for standard voron 6x3 at the expense of the seal. Choose between V2 and V3 as you please!<BR><br>
 What-the-raven is Nevermore Micro? Its the smallest member of the Nevermore <I>recirculation carbon filter</I> family,  aimed at cleaning the VOCs produced by the printer REPEATEDLY, instead of using a one-pass exhaust of ever decreasing efficiency. Being the sixth filter design in my filter ventures, I feel this is the quickest way to add recirculation filtration easily - all while managing a balanced noise level utilizing a single 5015 fan.
@@ -105,7 +109,7 @@ You're ready to build a Nevermore Micro? Cool!
 * ONE 5015 BLOWER FAN, CUT UP SO ONLY THE FAN AND ITS PLASTIC BACKING + "SCREW EARS" REMAINS. We aim for removing the focused air stream and instead achieve an even pressure across all of the filter medium.
 
 <B>PRINTED PARTS:</b><br>
-Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> (plus lids for the plenum/cartridge, and a latch for holding the lid in place and allowing for easy filter removal. <BR>
+Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> (plus lids for the plenum/cartridge. <BR>
 
 * <b>Base</B> is mounted in the 130mm space between the bottom extrusions found on many vorons (designed for v2 originally). It’s seated with one m3 on each side, that screws into to a receiving 2020 M3 T-nut.<BR> 
 
@@ -113,12 +117,12 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 
 *<b>Cartridge</B> holds the filter medium of your choice (made for 3-4mm air filter active carbon pellets, but feel free to filter with what you think works best!). It snaps onto the Plenum piece for easy and quick removal.
 
-<B>BOLTS/INSERTS:</b><br>
-* 8 X Heat inserts (M3,5x4mm, standard voron issue). <BR>
--2 for seating latch to cartridge.<br>
+<B>BOLTS/INSERTS/MAGNETS:</b><br>
+* 4 X Heat inserts (M3,5x4mm, standard voron issue). <BR>
 -2 for seating plenum to base.<BR>
--4 for seating plenum lid to plenum.<BR>
+-2 for seating plenum lid to plenum.<BR>
 -2 x m3 2020 T-Nuts<br>
+* 8 x 4x6 mm cylindrical magnets.<br>
 
 * M3 SHCS/BHCS (6-10mm, use what works/looks best!)<BR><br>
 
@@ -127,19 +131,20 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 
 ### Installation
 
-1. Place 8 inserts.<br>
-2. Remove support material from LATCH, CARTRIDGE_LID (wedge) and CARTRIDGE (bottom of the snap fits are support, the snap fit wil travel inside the 2020 extrusion)<br>
-3. Disassemble a 5015 fan (Sunon MF 5015 VX recommended as it has the highest static pressure of most 5015 fans), seat it with a bit of glue or VHB tape (fan should be removable with a bit of effort without breaking the printed part, as it might not hold up for more than a year of running 60-70C air). <br>
-4. Lead fan wires out through the rear cable hole, add a connector of choice on the other side.<br>
-5. Remove/lift bed so you can reach about 5-10cm underneath the front of the hot bed.<br>
+1. Place 4 inserts (2 plenum, 2 on base).<br>
+2. Remove support material from PLENUM <br>
+3. Disassemble a 5015 fan (200+ Pa static pressure recommended), bu cutting it flat/circular. Seat it absolutely centered on the PLENUM HEX piece with a bit of glue or VHB tape (there should be 1.6-2mm of clearance to the plenum lid to work with) and with the wires along the markings. <br>
+4. Lead fan wire along to the cutout on the back.<br>
+5. Remove/lift you v2.4 bed so you can reach about 5-10cm underneath the front of the hot bed.<br>
 6. Find a good location for the Filter. When installed, you should be able to remove the cartridge without burning yourself on the bed, and the filter cartridge should not reach all the way to the printer doors.<br>
 7. Seat the Base with 2 m3 bolts into two recieving extrusion T Nuts.<br>
 8. Seat Plenum to Base with two m3 shcs bolts (6-10mm).<br>
-9. Add LID Piece to Plenum with 4x m3 x 6mm (BHSC)<br>
-10. Test cartride (base should not move when snapping on/off cartridge. Tighten as necessary!<br>
-11. Re-install your heated bed.<br>
-12. Fill cartridge with filter medium, snap on, connect fan wire to mcu and activate in klipper - <br>
-13. Enjoy active carbon recirculation.<br>
+9. Add LID Piece to Plenum with 4x m3 x 6mm (BHSC, back two with inserts, front two are just threaded)<br>
+10. Glue 8 magnets (cylindrical 4x6mm) to the corresponding holes on the plenum and cartridge, so the pieces can snap together. Optionally add a strip of 1.75mm soft TPU filament for additional sealing in the corresponding slot between cartridge/plenum.<br>
+11. Test cartride/plenum/base. The base should not move when snapping on/off cartridge. Tighten as necessary!<br>
+12. Re-install your heated bed.<br>
+13. Fill cartridge with filter medium, snap on, connect fan wire to mcu and activate in klipper - <br>
+14. Enjoy active carbon recirculation. Keep your carbon stash air tight, and change cartridge every 30-40 hrs (tip: print two or more cartridge pieces for fast/quick filter swaps. Keep any unused fresh cartridges in an air tight bag.<br>
 
 
 ### Built with
