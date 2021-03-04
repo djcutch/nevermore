@@ -133,14 +133,14 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 
 1. Place 4 inserts (2 plenum, 2 on base).<br>
 2. Remove support material from PLENUM <br>
-3. Disassemble a 5015 fan (200+ Pa static pressure recommended), bu cutting it flat/circular. Seat it absolutely centered on the PLENUM HEX piece with a bit of glue or VHB tape (there should be 1.6-2mm of clearance to the plenum lid to work with) and with the wires along the markings. <br>
+3. Disassemble a 5015 fan (200+ Pa static pressure recommended), bu cutting it flat/circular (optionally use cutting guide stl). Seat it absolutely centered on the PLENUM HEX piece with a bit of glue or VHB tape (there should be 1.6-2mm of clearance to the plenum lid to work with) and with the wires along the markings. <br>
 4. Lead fan wire along to the cutout on the back, and then glue the hex piece to the plenum. It only fits one way.<br>
-5. Remove/lift you v2.4 bed so you can reach about 5-10cm underneath the front of the hot bed.<br>
-6. Find a good location for the Filter. When installed, you should be able to remove the cartridge without burning yourself on the bed, and the filter cartridge should not reach all the way to the printer doors.<br>
-7. Seat the Base with 2 m3 bolts into two recieving extrusion T Nuts.<br>
-8. Seat Plenum to Base with two m3 shcs bolts (6-10mm).<br>
-9. Add LID Piece to Plenum with 4x m3 x 6mm (BHSC, back two with inserts, front two are just threaded)<br>
-10. Glue 8 magnets (cylindrical 4x6mm) to the corresponding holes on the plenum and cartridge, so the pieces can snap together. Optionally add a strip of 1.75mm soft TPU filament for additional sealing in the corresponding slot between cartridge/plenum.<br>
+5. Glue 8 magnets (cylindrical 4x6mm) to the corresponding holes on the plenum and cartridge, so the pieces can snap together. Optionally add a strip of 1.75mm soft TPU filament for additional sealing in the corresponding slot between cartridge/plenum.<BR>
+6. Remove/lift you v2.4 bed so you can reach about 5-10cm underneath the front of the hot bed.<br>
+7. Find a good location for the filter base. When everything is installed, you should be able to remove the cartridge without burning yourself on the bed, and the filter cartridge should not reach all the way to the printer doors.<br>
+8. Seat the Base with 2 m3 bolts into two recieving extrusion T Nuts.<br>
+9. Seat Plenum to Base with two m3 shcs bolts (6-10mm).<br>
+10. Add LID Piece to Plenum with 4x m3 x 6mm (BHSC, back two with inserts, front two are just threaded). NOTE: The lid have to bent slightly while installing as the intake hole extends down and have to pass over the plenum vanes to get in place - dont't worry, it will fit fine, just dont break the vanes! <br>
 11. Test cartride/plenum/base. The base should not move when snapping on/off cartridge. Tighten as necessary!<br>
 12. Re-install your heated bed.<br>
 13. Fill cartridge with filter medium, snap on, connect fan wire to mcu and activate in klipper - <br>
