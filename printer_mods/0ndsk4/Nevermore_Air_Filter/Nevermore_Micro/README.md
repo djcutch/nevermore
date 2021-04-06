@@ -80,7 +80,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
  <img src="images/print_example2.png" alt="NevermoreV2">
 
 <B>NEVERMORE V4</B><br>
-Nevermore V4 is a refinement of the V3. Some supports for the plenum are back unfortunately, but they should be easy enough to remove(integrated, so no slicer supports anywhere!) V4 adds a air guides, as the previous versions had the majority of air flow on just one side of the filter. The cartridge lid also mounts a bit sturdier, and V4 now has separate base pieces for use with vorons other than 2.4.
+Nevermore V4 is a refinement of the V3. V4 adds a air guides, as the previous versions had the majority of air flow on just one side of the filter (most recent version has all supports removed yet again!). The cartridge lid also mounts a bit sturdier, and V4 now has separate base pieces for use with vorons other than 2.4.
 
 
 <B>NEVERMORE V3</B><br>
@@ -132,7 +132,7 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 ### Installation
 
 1. Place 4 inserts (2 plenum, 2 on base).<br>
-2. Remove support material from PLENUM <br>
+2. <s>Remove support material from PLENUM</s> <br>
 3. Disassemble a 5015 fan (200+ Pa static pressure recommended), bu cutting it flat/circular (optionally use cutting guide stl). Seat it absolutely centered on the PLENUM HEX piece with a bit of glue or VHB tape (there should be 1.6-2mm of clearance to the plenum lid to work with) and with the wires along the markings. <br>
 4. Lead fan wire along to the cutout on the back, and then glue the hex piece to the plenum. It only fits one way.<br>
 5. Glue 8 magnets (cylindrical 4x6mm) to the corresponding holes on the plenum and cartridge, so the pieces can snap together. 
