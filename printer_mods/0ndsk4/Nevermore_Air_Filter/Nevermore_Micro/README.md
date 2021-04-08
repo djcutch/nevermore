@@ -92,7 +92,7 @@ UV photocatalyst activity can last though, but breakdown is slow and inefficient
 <B>2.	Carbon/HEPA filter combinations</B> like the zortax (https://spool3d.ca/zortrax-m-series-hepa-filter-3-pack/)<br>
 a.	Same as above. The HEPA component will keep working, but the carbon is just a few pebbles per hex. It could provide partial VOC clearance when fresh, but will quickly deplete with air flow. Then you need to replace it for 36 US after a week of printing.<br>
 <B>3.	Wet scrubber</B><br>
-a.	Awesome for both particles and VOCs, but its and industrial solution with home version plagues by loud noise, water leaking and mechanical issues. Its not a solution for the masses.<br>
+a.	Awesome for both particles and VOCs, but its an industrial solution with any smaller home versions plagued by loud noise, water leakage and mechanical issues. Its not a solution for the masses.<br>
 So, how about Nevermore? Well, the carbon in those filters mentioned above, costing alot for little duration is actually dirt cheap. Whereas you get 20 grams for 36 US with a zortax filter, you can get 5000 grams for 36 US in bulk. And with an enclosed chamber, you dont need the air flow of a room-size air purifier. Even a 350mm V2 Voron only holds about 5cfm, even a partial flow from a 5015 fan  of 0.5-2cfm is enough to filter the fumes efficiently at the source.<br>
 So what are we waiting for? We got lots of cheap carbon. We can replace is easily. We dont need high airflow to clean a small chamber. We deal with poor efficiency of one-pass carbon filters by multiplying the amount and recirculate the air. <br>Enter Nevermore.<br><br>
 
