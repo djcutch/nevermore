@@ -151,8 +151,8 @@ You're ready to build a Nevermore? Cool!
 * BACK (4MM, OR 2+2mm dampening, or even totally optional as its just there to be a noise barrier combined with the enclosure panel): 288 X 278 mm<br><br>
 
 <B>FANS</b><br>
-* CENTER fan: Any generic 75x25mm radial GPU fan. Smaller or thinner will work with minimal modding required (ie 65x20 or so).<br>
-AMD VEGA 56/64 Fans are used by me: https://www.aliexpress.com/item/4001102469307.html<br>
+* CENTER fan: Any generic 65mm radial GPU fan.<br>
+A GTX1080 GPU fan is what Im using currently: https://www.aliexpress.com/item/32273769740.html<br>
 * Rubber grommets for PC cases to decouple the center fan vibrations from the panels.<BR>
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
