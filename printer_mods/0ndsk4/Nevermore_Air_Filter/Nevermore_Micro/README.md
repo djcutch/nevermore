@@ -23,18 +23,23 @@
     <img src="images/logo.png" alt="Logo" width="1000" height="500">
   </a>
 
-  <h3 align="center">Nevermore Air Filter</h3>
+  <h3 align="center">Nevermore Micro Air Filter</h3>
 
   <p align="center">
-    But the Raven, sitting lonely on the placid bust, spoke only<BR>
-That one word, as if his soul in that one word he did outpour.<br>
-    Nothing farther then he uttered—not a feather then he fluttered—<BR>
-    Till I scarcely more than muttered “Other friends have flown before—<br>
-On the morrow he will leave me, as my Hopes have flown before.”<BR>
-            Then the bird said “Nevermore!”<br><BR>
-			<B>"The Raven"</b>, Edgar Allan Poe
-    <br>
- <img src="images/Nevermore_Micro3.png" alt="NevermoreV2">
+    Welcome to the Nevermore Micro repo! Intended as a carbon fume filter for Voron V2, it has found its way into a multitude of other machines. Let yours be the next!<BR><BR>
+	The current NM Micro versions are V4 and V5 Duo. V4 utilizes a single dissected 5015 fan that is glued in place to spread the airflow over the entire filter surface (something nigh impossible to do with an intact scroll, which focuses the air too much). 
+	V5 Duo uses two blowers in paralell to achieve a more even spread of airflow while keeping the pressure-generating scrolls intact, but still needs some slight modifications to the scroll exhaust. Since you are commiting fan dissection, be aware a 5015 used for a NM Micro will most likely never find a different purpose!<br><BR>
+	WHATS NEW IN V5?<br>
+	* Exhausts upwards; 1) better heat spread in the chamber, and 2) less air leaks through v2 split doors.
+    * BOM 6x3 magnets are standard<br>
+	* Blower fans are seated by bolts again, with less modification needed.<br>
+	
+	WHY USE A SINGLE FAN VERSION, IF DUAL IS BETTER?<BR><br>
+	Dual is not better. Dual fans can pump twice the air with if no restriction is present. But in a spacially constrained filter, carbon always pose a restiction! Thus, while two fans can pump twice the air vs a certain restriction, since the filter is not larger the area per blower is halved. What can be gained from using two fans is thus mostly a more linear air flow, and somewhat higher pressure since the scroll is vital for pressure generation using forward-curved blades (as used in 5015 blowers).
+	<br><BR>
+	WHAT FANS SHOULD i USE?<BR>
+	Aim for any 5015 blower with a rating above 200Pa / 20mmH2O / 1 inH2O. Since the fan (probably) cant be reused for other projects and will function in a high temp environment affecting its lifetime, go for budget. Two good fans for this is the $6-8 Sunon Maglev MF5015VX (high speed version, 6000 rpm. The 5000 rpm might be okay also) and the $4-6 GDStime 6000rpm Dual Ball bearing on Aliexpress.
+ <img src="images/DUO_COMBINED_render.png" alt="NevermoreV5">
 	<BR></BR>
     <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro"><strong>Explore the Nevermore »</strong></a>
     <br />
