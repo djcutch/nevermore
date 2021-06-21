@@ -35,7 +35,7 @@
 	* Blower fans are seated by bolts again, with less modification needed.<br>
 	
 	WHY USE A SINGLE FAN VERSION, IF DUAL IS BETTER?
-	Dual is not better. Dual fans can pump twice the air with if no restriction is present. But in a spacially constrained filter, carbon always pose a restiction! Thus, while two fans can pump twice the air vs a certain restriction, since the filter is not larger the area per blower is halved. What can be gained from using two fans is thus mostly a more linear air flow, and somewhat higher pressure since the scroll is vital for pressure generation using forward-curved blades (as used in 5015 blowers).
+	Dual is not better. The area per blower is halved, so what is gained in air flow is lost in increased restriction per blower. The should be some improvements though, from linear air flow and intact scroll.
 	
 	WHAT FANS SHOULD i USE?
 	Aim for any 5015 blower with a rating above 200Pa / 20mmH2O / 1 inH2O. Since the fan (probably) cant be reused for other projects and will function in a high temp environment affecting its lifetime, go for budget. Two good fans for this is the $6-8 Sunon Maglev MF5015VX (high speed version, 6000 rpm. The 5000 rpm might be okay also) and the $4-6 GDStime 6000rpm Dual Ball bearing on Aliexpress.
