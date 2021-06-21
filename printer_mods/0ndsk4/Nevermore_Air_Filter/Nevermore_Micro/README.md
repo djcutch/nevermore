@@ -38,7 +38,7 @@
 	Dual is not better. The area per blower is halved, so what is gained in air flow is lost in increased restriction per blower. There should be some improvements though, from linear air flow and intact scroll.
 	
 	WHAT FANS SHOULD i USE?
-	Aim for any 5015 blower with a rating above 200Pa / 20mmH2O / 1 inH2O. Since the fan (probably) cant be reused for other projects and will function in a high temp environment affecting its lifetime, go for budget. Two good fans for this is the <B>$6-8 Sunon Maglev MF5015VX</b> (high speed version, 6000 rpm. The 5000 rpm might be okay also) and the $4-6 GDStime 6000rpm Dual Ball bearing on Aliexpress.
+	Aim for any 5015 blower with a rating above 200Pa / 20mmH2O / 1 inH2O. Since the fan (probably) cant be reused for other projects and will function in a high temp environment affecting its lifetime, go for budget. Two good fans for this is the $6-8 Sunon Maglev MF5015VX (high speed version, 6000 rpm. The 5000 rpm might be okay also) and the $4-6 GDStime 6000rpm Dual Ball bearing on Aliexpress.
  
  <img src="images/DUO_COMBINED_render.png" alt="NevermoreV5">
 	<BR></BR>
