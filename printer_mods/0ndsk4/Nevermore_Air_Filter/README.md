@@ -26,9 +26,6 @@
 
   <h3 align="center">Nevermore Air Filter</h3>
 
-
- <img src="images/nevermore.gif" alt="NevermoreGIF" width="600" height="505">
-	<BR></BR>
     <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter"><strong>Explore the Nevermore »</strong></a>
     <br />
     <br />
