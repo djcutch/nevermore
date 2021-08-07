@@ -1,3 +1,4 @@
+
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
 *** that would make this better, please fork the repo and create a pull request
@@ -25,15 +26,7 @@
 
   <h3 align="center">Nevermore Air Filter</h3>
 
-  <p align="center">
-    But the Raven, sitting lonely on the placid bust, spoke only<BR>
-That one word, as if his soul in that one word he did outpour.<br>
-    Nothing farther then he uttered—not a feather then he fluttered—<BR>
-    Till I scarcely more than muttered “Other friends have flown before—<br>
-On the morrow he will leave me, as my Hopes have flown before.”<BR>
-            Then the bird said “Nevermore.”!<br><BR>
-			<B>"The Raven"</b>, Edgar Allan Poe
-    <br>
+
  <img src="images/nevermore.gif" alt="NevermoreGIF" width="600" height="505">
 	<BR></BR>
     <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter"><strong>Explore the Nevermore »</strong></a>
@@ -54,7 +47,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#About-The-Nevermore">About The Nevermore</a>
+      <a href="#About-The-Nevermore">About The Nevermore Max</a>
       <ul>
         <li><a href="#Why">Why Nevermore?</a></li>
 		<li><a href="#But-we-already-have-a-filtered-exhaust">But we already have a filtered exhaust?</a></li>
@@ -64,7 +57,7 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#BOM">BOM</a></li>
+        <li><a href="#BOM">BOM (AND IMPORTANT CARBON INFO)</a></li>
         <li><a href="#installation">Installation</a></li>
 		<li><a href="#Built-with">Built with</a></li>
       </ul>
@@ -77,11 +70,12 @@ On the morrow he will leave me, as my Hopes have flown before.”<BR>
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Nevermore
+## About The Nevermore Max
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 What-the-raven is Nevermore? Its another <I>recirculation carbon filter</I> design aimed at cleaning the VOCs produced by the printer REPEATEDLY, instead of using a one-pass exhaust of ever decreasing efficiency. Being the fourth filter design in my filter ventures, I feel this is the best blend of looks, simplicity and pure filtration power yet - all while managing a balanced noise level.
+Also check out the smaller Nevermore siblings - Nevermore Micro and Nevermore Mini (TBD).
 
 ### Why
 
@@ -151,18 +145,18 @@ You're ready to build a Nevermore? Cool!
 * BACK (4MM, OR 2+2mm dampening, or even totally optional as its just there to be a noise barrier combined with the enclosure panel): 288 X 278 mm<br><br>
 
 <B>FANS</b><br>
-* CENTER fan: Any generic 65mm radial GPU fan.<br>
-A GTX1080 GPU fan is what Im using currently: https://www.aliexpress.com/item/32273769740.html<br>
+* CENTER fan: Any generic 65x25mm radial GPU fan. **DELTA BFB0712HF 65mm would work fine.**<br>
 * Rubber grommets for PC cases to decouple the center fan vibrations from the panels.<BR>
 * RECIRCULATION fans: TWO 5015 blowers or your choice.<br>
 * EXHAUST FAN: A single 4010 blower.<br><br>
-<B>FILTERS</b><br>
-* Active carbon: 3-4mm pellets (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
-Example (.DE): https://www.helo24.eu/haushalt-event/aktivkohle-pellets-wasserfilter-filtermaterial-kohle-filterkohle-a-top_178528_8035 <BR>
-Example 2 (.US) 2: https://www.airpurifiersandcleaners.com/bulk-standard-activated-carbon <BR>
-Example 3 (.AU): https://www.ebay.com.au/itm/Activated-Carbon-Deodorising-Pellets-5-kg-/154017567261<BR>
-* Prefilter: Any vacum prefilter, preferably a larger piece you can cut to size yourself.<br>
-* HEPAs: 4x Chuwi iLife 40x80mm filters (get a ten pack for three bucks on ali)<br>
+<B>CARBON AND FILTERS</b><br>
+* Active carbon: ***4mm pellets*** (ebay/amazon, available on bulk. Slightly more than 1 kg/2 pounds to fill the filter, and a quarter of that per four months from there on.<br>
+* **IMPORTANT**! Since first release the *varying quality carbon out there has become increasingly evident*. Users has both gotten bad carbon as well as outright dangerous stuff (in one case oxidizing most metal surfaces in a new voron in minutes. Be sure to vet your carbon supplier! 
+* *Optimal carbon* for 3D printer VOC adsorbtion is sourced from ***virgin coconut***, not wood/bitumen/charcoal/bamboo/lignin/etc. The porosity for each and every source will vary greatly (i.e, for aquarium or moonshine use you want large macroporosity to filter larger impurities, like oils. For that reason, water/liquid use carbon  has a large macropore area, defined as >100nm. Printer VOCs are generally less than 0.5 nm, meaning that for optimal capture rate and efficiency we want carbon with a high *microporosity* ratio, defined as <1nm). A higher **iodine count** >1000 usually indicates at least some micro/mesoporosity, and a higher **hardness** (>95%) will create less dust in air filtration. CTC number doesnt translate well to our VOCs, but toluene adsorbtion - which sometimes is available - is a good metric.
+* **Avoid acid washed carbon**. Residues have oxidized printers! Go for steam activated, non acid-washed. A blend of neutral carbon and alkaline KOH carbon might be the best blend in the future, but impossible to currently source from trustworthy manufacturers.
+* Finding carbon that fills all criteria is hard, but will hopefully become easier in time (working on that). Look around, ask suppliers about the carbon, hear what others recommend.
+
+* **HEPAs**: 4x *Chuwi iLife 40x80mm* filters (get a ten pack for three bucks on ali)<br>
 Example Seller: https://www.aliexpress.com/item/1005001615722382.html<br>
 
 <B>PRINTED PARTS:</b><br>
@@ -170,7 +164,7 @@ Example Seller: https://www.aliexpress.com/item/1005001615722382.html<br>
 * Print solid. The top/Bottom plates are 6mm thick, same as panels. Hollow/infilled panels doesnt dampen as well.<br><br>
 ### Installation
 
-...TBC...
+...TBC... The filter as of yet is an early alpha, subject to change. Builds and feedback are appreciated, but most parts will probably be subject to future change.
 
 ### Built with
 The Voron nevermore Air Filter was modelled in Fusion 360.
