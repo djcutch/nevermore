@@ -26,7 +26,7 @@
 
   <h3 align="center">Nevermore Air Filter</h3>
 
-    <https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter"><strong>Explore the Nevermore »</strong></a>
+<strong>Explore the Nevermore »</strong></a>
     <br />
     <br />
     <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter">Nevermore Air Filter</a>
