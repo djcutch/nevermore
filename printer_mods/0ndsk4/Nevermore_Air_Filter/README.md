@@ -31,7 +31,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#About-The-Nevermore">About The Nevermore Max</a>
+      <a href="#About-The-Nevermore">About Nevermore Max</a>
       <ul>
         <li><a href="#Why">Why Nevermore?</a></li>
 		<li><a href="#But-we-already-have-a-filtered-exhaust">But we already have a filtered exhaust?</a></li>
