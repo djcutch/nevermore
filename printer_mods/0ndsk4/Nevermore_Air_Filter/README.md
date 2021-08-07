@@ -24,20 +24,7 @@
     <img src="images/logo.png" alt="Logo" width="1117" height="830">
   </a>
 
-  <h3 align="center">Nevermore Air Filter</h3>
-
-<strong>Explore the Nevermore »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter">Nevermore Air Filter</a>
-    ·
-    <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/issues">Request Feature</a>
-  </p>
-</p>
-
-
+  <h3 align="center">Nevermore Max Air Filter</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
