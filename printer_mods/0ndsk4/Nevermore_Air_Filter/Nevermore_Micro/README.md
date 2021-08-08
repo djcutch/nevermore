@@ -33,6 +33,7 @@
 	* Exhausts upwards; 1) better heat spread in the chamber, and 2) less air leaks through v2 split doors.<BR>
     * BOM 6x3 magnets are standard<br>
 	* Blower fans are seated by bolts again, with less modification needed.<br>
+	* Check out assembly images (**take note at how the fans are cut!**) here: [Nevermore V5 Plenum Assembly Album](https://ibb.co/album/0BN405?sort=name_asc&page=1&params_hidden%5Blist%5D=images&params_hidden%5Bfrom%5D=album&params_hidden%5Balbumid%5D=0BN405)
 	
 	WHY USE A SINGLE FAN VERSION, IF DUAL IS BETTER?
 	Dual is not better. The area per blower is halved, so what is gained in air flow is lost in increased restriction per blower. There should be some improvements though, from linear air flow and intact scroll.
@@ -116,13 +117,13 @@ Some will have a hard time achieving a good chamber seal, which creates the bigg
 
 You're ready to build a Nevermore Micro? Cool!
 
-### BOM
+### BOM (V4)
 
 <B>MADE FOR ABS/PC/PETG - USE A DECENTLY HEAT RESISTANT FILAMENT!</b> <br>
 
 
 <B>FANS</b><br>
-* ONE 5015 BLOWER FAN, CUT UP SO ONLY THE FAN AND ITS PLASTIC BACKING + "SCREW EARS" REMAINS. We aim for removing the focused air stream and instead achieve an even pressure across all of the filter medium.
+* ONE 5015 BLOWER FAN, CUT UP SO JUST THE CENTER REMAINS (take off the top half, cut the bottom piece circular along the fan blades). We aim for removing the focused air stream and instead achieve an even pressure across all of the filter medium.
 
 <B>PRINTED PARTS:</b><br>
 Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> (plus lids for the plenum/cartridge. <BR>
@@ -131,23 +132,22 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 
 *<b>Plenum</B> holds the cut up 5015 fan, and is seated with two m3 screws into the base (base has two recieving m3 4mm heat inserts) on each side<BR>
 
-*<b>Cartridge</B> holds the filter medium of your choice (made for 3-4mm air filter active carbon pellets, but feel free to filter with what you think works best!). It snaps onto the Plenum piece for easy and quick removal.
+*<b>Cartridge</B> holds the filter medium of your choice (made for 4mm air filter active carbon pellets, but feel free to filter with what you think works best!). It snaps onto the Plenum piece for easy and quick removal.
 
-<B>BOLTS/INSERTS/MAGNETS:</b><br>
-* 4 X Heat inserts (M3,5x4mm, standard voron issue). <BR>
+<B>BOLTS/INSERTS/MAGNETS for v4:</b><br>
+* **4 X** Heat inserts (M3,5x4mm, standard voron issue). <BR>
 -2 for seating plenum to base.<BR>
 -2 for seating plenum lid to plenum.<BR>
--2 x m3 2020 T-Nuts<br>
-* 8 x 4x6 mm cylindrical magnets.<br>
-
+-**2 x** m3 2020 T-Nuts<br>
+* **8 x** 4x6 mm OR 6x3 cylindrical magnets.<br>
 * M3 SHCS/BHCS (6-10mm, use what works/looks best!)<BR><br>
 
 <B>Filter medium:</b><br>
-3-4mm Active carbon Air Filter Pellets (see Nevermore BOM for example links)
+4mm Active carbon Air Filter Pellets (see Nevermore BOM for useful/important carbon info!)
 
 ### Installation
 
-1. Place 4 inserts (2 plenum, 2 on base).<br>
+~~1. Place 4 inserts (2 plenum, 2 on base).<br>
 2. <s>Remove support material from PLENUM</s> <br>
 3. Disassemble a 5015 fan (200+ Pa static pressure recommended), bu cutting it flat/circular (optionally use cutting guide stl). Seat it absolutely centered on the PLENUM HEX piece with a bit of glue or VHB tape (there should be 1.6-2mm of clearance to the plenum lid to work with) and with the wires along the markings. <br>
 4. Lead fan wire along to the cutout on the back, and then glue the hex piece to the plenum. It only fits one way.<br>
@@ -160,7 +160,7 @@ Nevermore Micro has Three main parts: <B>Base, Plenum</b>, and <B>Cartridge</B> 
 11. Test cartride/plenum/base. The base should not move when snapping on/off cartridge. Tighten as necessary!<br>
 12. Re-install your heated bed.<br>
 13. Fill cartridge with filter medium, snap on, connect fan wire to mcu and activate in klipper - <br>
-14. Enjoy active carbon recirculation. Keep your carbon stash air tight, and change cartridge every 30-40 hrs (tip: print two or more cartridge pieces for fast/quick filter swaps. Keep any unused fresh cartridges in an air tight bag.<br>
+14. Enjoy active carbon recirculation. Keep your carbon stash air tight, and change cartridge every 30-40 hrs (tip: print two or more cartridge pieces for fast/quick filter swaps. Keep any unused fresh cartridges in an air tight bag.<br>~~
 
 
 ### Built with
