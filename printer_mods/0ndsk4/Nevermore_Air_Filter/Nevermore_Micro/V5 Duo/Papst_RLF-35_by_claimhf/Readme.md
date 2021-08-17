@@ -5,3 +5,5 @@ Check it out on https://eu.mouser.com/ProductDetail/ebm-papst/RLF35-8-12N-2?qs=y
 
 The one con is it costs $50 USD. BUT, they are sometimes possible to get on surplus sale, like from here: 
 https://www.maranos-shop.de/products/ebmpapst-rlf35-8-14n-ebm-papst-lufter-24v-dc-180ma-4-3w-gebr?_pos=1&_sid=94ba04c6d&_ss=r
+
+Huge thanks to claimhf for this mod!
