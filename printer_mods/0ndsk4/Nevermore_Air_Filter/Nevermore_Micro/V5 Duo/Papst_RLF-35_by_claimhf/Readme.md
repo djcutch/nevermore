@@ -1,5 +1,5 @@
 
-Papst RLF-35 is the ultimate Nevermore Duo fan: Quiet, moves alot of air, heat resistant (rated at 30k hours at 70C) and **requires no modifications** as it has the Nevermore geometry from factory!
+Papst RLF-35 is the ultimate Nevermore Duo fan: Quality, moves alot of air for its noise level, heat resistant (rated at 30k hours at 70C) and **requires no modifications** as it has the Nevermore geometry from factory!
 
 Check it out on https://eu.mouser.com/ProductDetail/ebm-papst/RLF35-8-12N-2?qs=y6ZabgHbY%252Bxknt2BJDizHw==
 
